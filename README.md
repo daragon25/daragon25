@@ -4,6 +4,7 @@ Hello, my name is diego alexis aragon. I am a researcher in the area of power el
 daragon25/daragon25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-D.A. Aragon
+D.A. Aragon, PhD.
+https://shorturl.at/FCY4G
 
-Researcher in the area of power electronics, control and power system stability.
+Researcher in the area of power electronics, Hardware-in-the-Lopp, control and power system stability.
