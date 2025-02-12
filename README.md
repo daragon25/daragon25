@@ -5,6 +5,8 @@ daragon25/daragon25 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 D.A. Aragon, PhD.
-https://shorturl.at/FCY4G
 
-Researcher in the area of power electronics, Hardware-in-the-Lopp, control and power system stability.
+
+Researcher in the area of power electronics, Hardware-in-the-Lopp, control and power system stability.\\
+
+https://www.linkedin.com/in/diegoaragonphd/
