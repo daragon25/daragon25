@@ -1,4 +1,4 @@
-Hello, my name is diego alexis aragon. I am a researcher in the area of power electronics, control and stability of electrical grids.
+Researcher in power systems, power electronics, control and stability.
 
 <!---
 daragon25/daragon25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
